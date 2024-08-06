@@ -1,0 +1,12 @@
+question,context_precision,faithfulness,answer_relevancy,context_recall
+"What components are classified as ""Listed Power Unit Components"" (LPUC) and what are their defining characteristics?",1,1,0.8502,1
+What is a Power Unit Manufacturer required to include in its homologation dossier for each Competitor it intends to supply?,0.8056,1,0.8238,1
+What measures can the FIA take if performance upgrades implemented by a PU Manufacturer under the provisions of Article 3.2 of this Appendix are deemed unfair in comparison to PU Manufacturers who were not awarded any ADUO?,0.9028,1,0.8973,1
+"What is the PU supply perimeter listed in the Appendix 3 of the Technical Regulations, and what is the adjusted maximum price for it?",1,0.8,0.957,1
+"How does the FIA handle prospective suppliers for the 2022-2025 Championships, and how does the process differ for competitors with existing suppliers for the 2026-2030 Championships?",1,0.9,0.9437,1
+"Is an Automotive Manufacturer required to produce at least 3,000 units of automobile during the past 12 months in order to be defined as such?",1,0.9333,0.9509,1
+"Which classification does a Power Unit component used in Formula One cars fall under, as defined by Articles 18.3-18.6?",1,1,0.9195,1
+What method will be used to analyse the sample if the boiling point test suggests the presence of compounds with a boiling point of less than 210°C?,1,1,0.9536,1
+How will the engine oil samples taken during a Competition be checked for conformity?,1,1,0.9476,1
+What different types of processes can be used to produce a base stock lubricant?,1,1,0.9492,1
+Results,0.97084,0.96333,0.91928,1
